@@ -1,13 +1,8 @@
-name: Update GitHub Activity
-
+name: Update README activity
 on:
   schedule:
-    - cron: "*/30 * * * *" # Runs every 30 minutes
-  workflow_dispatch: # Allows manual triggering
-
-permissions:
-  contents: write
-
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
 jobs:
   update-activity:
     runs-on: ubuntu-latest
@@ -16,11 +11,9 @@ jobs:
       - name: Run Update GitHub Activity
         uses: TheDanniCraft/activity-log@v1
         with:
-          GITHUB_USERNAME: "emilymng"
+          GITHUB_USERNAME: emilymng
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
-          EVENT_LIMIT: 10
-          OUTPUT_STYLE: MARKDOWN
-          IGNORE_EVENTS: "[]"
+          OUTPUT_STYLE: HTML
           README_PATH: README.md
-          COMMIT_MESSAGE: "⚡ Update README.md with latest activity"
+          COMMIT_MESSAGE: ⚡ Update README.md with latest activity
 
