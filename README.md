@@ -3,8 +3,6 @@
 
 <p align="center">Hey there, I'm Emily - an Info Security Engineer II at USAA working in the Member Authentication space. I am blessed to be able to contribute to both the frontend and backend of all of our applications, and I am working to create projects of my own here. I'm a huge nerd, and I love to play Call of Duty. Looking to build my network and personal portfolio, feel free to connect! ♥️</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emilymng&label=Profile%20views&color=0e75b6&style=flat" alt="emilymng" /> </p>
-
 - 🔭 I’m currently working on **personal projects**
 
 - 📫 How to reach me **eng0310@gmail.com**
@@ -27,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emilymng&show_icons=true&locale=en" alt="emilymng" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilymng&show_icons=true&locale=en&layout=compact" alt="emilymng" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emilymng&label=Profile%20views&color=0e75b6&style=flat" alt="emilymng" /> </p>
