@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Update GitHub Activity
-        uses: emilymng/update-readme@v1
+        uses: ./
         with:
           GITHUB_USERNAME: "emilymng"
           GITHUB_TOKEN: ${{ secrets.TOKEN }} # Ensure this matches the secret name in repository settings
