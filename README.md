@@ -19,18 +19,16 @@
 <h3 align="center">⚡ Recent Activity ⚡ </h3>
 <p align="left">
   <!--START_SECTION:activity-->
-  <ol>
-<li>📝 Committed to [emilymng/emilymng](https://github.com/emilymng/emilymng/commit/770171d69566b42c511aa9b06dec622f86c6659c)
-<li>📝 Committed to [emilymng/emilymng](https://github.com/emilymng/emilymng/commit/69af69cce4e1c935c8c607dd66a1f34c62e2e2dc)
-<li>📝 Committed to [emilymng/emilymng](https://github.com/emilymng/emilymng/commit/802f53c7bd701f76076c32a9a1335d4c14c5e6c3)
-<li>📝 Committed to [emilymng/emilymng](https://github.com/emilymng/emilymng/commit/a540ea97f7680d42acc1758423e41ee8b02ce096)
-<li>📝 Committed to [emilymng/emilymng](https://github.com/emilymng/emilymng/commit/526cd441ef712abfd603412da0c530fc7cfdd9a6)
-<li>📝 Committed to [emilymng/emilymng](https://github.com/emilymng/emilymng/commit/342633713f972e26ea0f484eab2426e49fe5f1fc)
-<li>📝 Committed to [emilymng/emilymng](https://github.com/emilymng/emilymng/commit/f637b45584e64cadf2ab21e3f7d117e6ba427f48)
-<li>📝 Committed to [emilymng/emilymng](https://github.com/emilymng/emilymng/commit/e66f49d794cec26272e64bd3c16ff621cd07688f)
-<li>📝 Committed to [emilymng/emilymng](https://github.com/emilymng/emilymng/commit/6260e97a35315a1c5652b746e520ec28cda22493)
-<li>📝 Committed to [emilymng/emilymng](https://github.com/emilymng/emilymng/commit/bc82b375d19fea202ae36c04415ceb64e4646271)
-  </ol>
+1. 📝 Committed to [emilymng/emilymng](https://github.com/emilymng/emilymng/commit/770171d69566b42c511aa9b06dec622f86c6659c)
+2. 📝 Committed to [emilymng/emilymng](https://github.com/emilymng/emilymng/commit/69af69cce4e1c935c8c607dd66a1f34c62e2e2dc)
+3. 📝 Committed to [emilymng/emilymng](https://github.com/emilymng/emilymng/commit/802f53c7bd701f76076c32a9a1335d4c14c5e6c3)
+4. 📝 Committed to [emilymng/emilymng](https://github.com/emilymng/emilymng/commit/a540ea97f7680d42acc1758423e41ee8b02ce096)
+5. 📝 Committed to [emilymng/emilymng](https://github.com/emilymng/emilymng/commit/526cd441ef712abfd603412da0c530fc7cfdd9a6)
+6. 📝 Committed to [emilymng/emilymng](https://github.com/emilymng/emilymng/commit/342633713f972e26ea0f484eab2426e49fe5f1fc)
+7. 📝 Committed to [emilymng/emilymng](https://github.com/emilymng/emilymng/commit/f637b45584e64cadf2ab21e3f7d117e6ba427f48)
+8. 📝 Committed to [emilymng/emilymng](https://github.com/emilymng/emilymng/commit/e66f49d794cec26272e64bd3c16ff621cd07688f)
+9. 📝 Committed to [emilymng/emilymng](https://github.com/emilymng/emilymng/commit/6260e97a35315a1c5652b746e520ec28cda22493)
+10. 📝 Committed to [emilymng/emilymng](https://github.com/emilymng/emilymng/commit/bc82b375d19fea202ae36c04415ceb64e4646271)
 <!--END_SECTION:activity-->
 </p>
 
