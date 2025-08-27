@@ -1,0 +1,19 @@
+name: GitHub activity feed to README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  generate-feed:
+    runs-on: ubuntu-latest
+    name: Generate feed
+
+    steps:
+      - uses: actions/checkout@v2
+
+      # Pin the version to the latest stable version.
+      # If you want to live on edge, use 'master' branch.
+      - uses: RecapTime/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
