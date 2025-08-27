@@ -1,5 +1,3 @@
-# .github/workflows/update-activity.yml:
-
 name: Update GitHub Activity
 
 on:
@@ -7,16 +5,19 @@ on:
     - cron: "*/30 * * * *" # Runs every 30 minutes
   workflow_dispatch: # Allows manual triggering
 
+permissions:
+  contents: write
+
 jobs:
   update-activity:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Update GitHub Activity
+      - name: Run Update GitHub Activity
         uses: ./
         with:
           GITHUB_USERNAME: "emilymng"
-          GITHUB_TOKEN: ${{ secrets.TOKEN }} # Ensure this matches the secret name in repository settings
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
           EVENT_LIMIT: 10
           OUTPUT_STYLE: MARKDOWN
           IGNORE_EVENTS: "[]"
