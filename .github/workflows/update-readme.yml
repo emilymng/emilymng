@@ -1,16 +1,25 @@
-name: Update README
+# .github/workflows/update-activity.yml:
+
+name: Update GitHub Activity
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
-  workflow_dispatch:
+    - cron: "*/30 * * * *" # Runs every 30 minutes
+  workflow_dispatch: # Allows manual triggering
 
 jobs:
-  build:
+  update-activity:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v2
-      - uses: emilymng/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v4
+      - name: Update GitHub Activity
+        uses: emilymng/update-readme@v1
+        with:
+          GITHUB_USERNAME: "emilymng"
+          GITHUB_TOKEN: ${{ secrets.TOKEN }} # Ensure this matches the secret name in repository settings
+          EVENT_LIMIT: 10
+          OUTPUT_STYLE: MARKDOWN
+          IGNORE_EVENTS: "[]"
+          README_PATH: README.md
+          COMMIT_MESSAGE: "⚡ Update README.md with latest activity"
+
