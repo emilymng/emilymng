@@ -42,6 +42,8 @@
 <h3 align="left">⚡ Recent Activity ⚡ </h3>
 <p align="left" >
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#2](https://github.com/emilymng/simpleEmployeeApp/issues/2) in [emilymng/simpleEmployeeApp](https://github.com/emilymng/simpleEmployeeApp)
+2. ❗ Opened issue [#1](https://github.com/emilymng/simpleEmployeeApp/issues/1) in [emilymng/simpleEmployeeApp](https://github.com/emilymng/simpleEmployeeApp)
 <!--END_SECTION:activity-->
 </p>
 <div>&nbsp;</div>
