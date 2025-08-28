@@ -40,8 +40,9 @@
 
 
 <h3 align="left">⚡ Recent Activity ⚡ </h3>
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 <div>&nbsp;</div>
 
 <h3 align="left">📈 Stats 📈</h3>
