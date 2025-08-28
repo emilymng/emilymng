@@ -41,7 +41,7 @@
 
 <h3 align="left">⚡ Recent Activity ⚡ </h3>
 <p align="left" >
-  <!--START_SECTION:activity-->
+<!--START_SECTION:activity-->
 <ol>
 <li>📝 Committed to <a href="https://github.com/emilymng/emilymng/commit/770171d69566b42c511aa9b06dec622f86c6659c">emilymng/emilymng</a></li>
 <li>📝 Committed to <a href="https://github.com/emilymng/emilymng/commit/69af69cce4e1c935c8c607dd66a1f34c62e2e2dc">emilymng/emilymng</a></li>
