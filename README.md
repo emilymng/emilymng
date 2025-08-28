@@ -58,6 +58,7 @@
 </p>
 <div>&nbsp;</div>
 
+<h3 align="left">📈 Stats 📈</h3>
 <div style="display: flex; flex-direction: row;">
   <img height="140" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emilymng&" alt="emilymng" />
 
