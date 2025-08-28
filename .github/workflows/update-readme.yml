@@ -1,19 +1,17 @@
-name: Update README activity
+name: Update README
 on:
   schedule:
     - cron: "*/30 * * * *"
   workflow_dispatch:
 jobs:
-  update-activity:
+  build:
+    name: Update this repo's README with recent activity
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v4
-      - name: Run Update GitHub Activity
-        uses: TheDanniCraft/activity-log@v1
-        with:
-          GITHUB_USERNAME: emilymng
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
-          OUTPUT_STYLE: HTML
-          README_PATH: README.md
-          COMMIT_MESSAGE: ⚡ Update README.md with latest activity
-
