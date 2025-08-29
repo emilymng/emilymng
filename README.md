@@ -39,14 +39,15 @@
 </div>
 
 
-<h3 align="center">🕐 WakaTime 🕐</h3>
+## 🕒 Coding Activity (via WakaTime) 🕒
+📊 **Weekly Development Breakdown**
 <img
   src="https://github.com/emilymng/emilymng/blob/main/images/stat.svg"
   alt="emilymng WakaTimeActivity"
 />
 <div>&nbsp;</div>
 
-<h3 align="left">📈 Stats 📈</h3>
+## 📈 Stats 📈
 <div style="display: flex; flex-direction: row;">
   <img height="140" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emilymng&" alt="emilymng" />
 
@@ -56,7 +57,7 @@
 <div>&nbsp;</div>
 <p>&nbsp;<img height="140" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilymng&show_icons=true&locale=en&layout=compact" alt="emilymng" /></p>
 
-<h3 align="left">Socials:</h3>
+## Socials: 
 <p align="left">
 <a href="https://linkedin.com/in/emilymng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emilymng" height="30" width="40" /></a>
 <a href="https://instagram.com/emdawq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emdawq" height="30" width="40" /></a>
