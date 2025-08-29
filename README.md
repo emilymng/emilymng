@@ -41,8 +41,8 @@
 
 <h3 align="left">⚡ Recent Activity ⚡ </h3>
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/emilymng/simpleEmployeeApp/issues/2) in [emilymng/simpleEmployeeApp](https://github.com/emilymng/simpleEmployeeApp)
-2. ❗ Opened issue [#1](https://github.com/emilymng/simpleEmployeeApp/issues/1) in [emilymng/simpleEmployeeApp](https://github.com/emilymng/simpleEmployeeApp)
+<ol>
+<li>📝 Committed to <a href="https://github.com/emilymng/emilymng/commit/770171d69566b42c511aa9b06dec622f86c6659c">emilymng/emilymng</a></li>
 <li>📝 Committed to <a href="https://github.com/emilymng/emilymng/commit/69af69cce4e1c935c8c607dd66a1f34c62e2e2dc">emilymng/emilymng</a></li>
 <li>📝 Committed to <a href="https://github.com/emilymng/emilymng/commit/802f53c7bd701f76076c32a9a1335d4c14c5e6c3">emilymng/emilymng</a></li>
 <li>📝 Committed to <a href="https://github.com/emilymng/emilymng/commit/a540ea97f7680d42acc1758423e41ee8b02ce096">emilymng/emilymng</a></li>
