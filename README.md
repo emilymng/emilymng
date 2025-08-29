@@ -39,7 +39,7 @@
 </div>
 
 
-<h3 align="left">🕐 WakaTime 🕐</h3>
+<h3 align="center">🕐 WakaTime 🕐</h3>
 <img
   src="https://github.com/emilymng/emilymng/blob/main/images/stat.svg"
   alt="emilymng WakaTimeActivity"
