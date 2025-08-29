@@ -12,7 +12,7 @@ jobs:
         uses: TheDanniCraft/activity-log@v1
         with:
           GITHUB_USERNAME: emilymng
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN2 }}
           OUTPUT_STYLE: HTML
           README_PATH: README.md
           COMMIT_MESSAGE: ⚡ Update README.md with latest activity
