@@ -1,18 +1,20 @@
-name: Update README activity
+name: Update README
+
 on:
   schedule:
-    - cron: "*/30 * * * *"
-  workflow_dispatch:
+    - cron: "*/30 * * * *" # Runs every 30 minutes
+  workflow_dispatch: # Allows manual triggering
+
 jobs:
   update-activity:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required to commit changes to the README
     steps:
       - uses: actions/checkout@v4
-      - name: Run Update GitHub Activity
-        uses: TheDanniCraft/activity-log@v1
+      - uses: jamesgeorge007/github-activity-readme@master # Or another activity action
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Automatically provided by GitHub Actions
         with:
-          GITHUB_USERNAME: emilymng
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
-          OUTPUT_STYLE: HTML
-          README_PATH: README.md
-          COMMIT_MESSAGE: ⚡ Update README.md with latest activity
+          COMMIT_MSG: "Update profile README with recent activity"
+          MAX_LINES: 10 # Limit the number of activity lines displayed
